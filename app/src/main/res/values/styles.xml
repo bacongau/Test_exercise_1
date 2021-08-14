@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="edittext_update_profile" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">22dp</item>
+    </style>
+</resources>
